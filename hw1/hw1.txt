@@ -1,0 +1,15 @@
+Search Engine Comparison Report
+
+# copy-right: GUK IL KIM 
+# USC ID: 3020867072
+
+Found from calculation:
+
+Average Percent Overlap: 16.8% (due to some queries not resulting in 10 results) => 17% (calculated by dividing the given description by 10, although some queries don't yield exactly 10 results).
+Average Spearman Coefficient: -5.0
+
+The 17% percent overlap indicates that only a small portion of the search results from the assigned search engine matched those from Google, suggesting that the two engines produce quite different results for the same queries.
+
+The Spearman coefficient of -5.0 implies there is minimal to no agreement in how the two search engines rank the overlapping results. Even when they return some of the same URLs, the order of those URLs differs significantly.
+
+In conclusion, the search engine based on the given queries for the Bing site generates a distinct set of results and ranks them differently compared to Google. This highlights a low similarity between the two, both in terms of the content they present and the way they rank it.
